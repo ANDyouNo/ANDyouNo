@@ -1,5 +1,5 @@
 # Hi 👋, I'm Andrew
-## A frontend developer
+## A WibeCoder
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ANDyouNo&theme=tokyonight&hide_border=false)<br/>
 
 ### 🌐 Socials:
